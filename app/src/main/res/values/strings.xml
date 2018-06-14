@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Energetska obnova</string>
+    <string-array name="Sijalice">
+        <item>Žarulja sa žarnom niti</item>
+        <item>Sijalica sa živom</item>
+        <item>Fluo T8 sijalica</item>
+    </string-array>
+</resources>
